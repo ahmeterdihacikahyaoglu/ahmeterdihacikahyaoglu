@@ -1,4 +1,4 @@
-![image](https://github.com/ahmeterdihacikahyaoglu/ahmeterdihacikahyaoglu/assets/78377927/2e46c497-b35d-4474-9642-ff0259e1ce7b)<h1 align="center">Hi 👋, I'm Ahmet Erdi</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Erdi</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>

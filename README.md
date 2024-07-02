@@ -17,6 +17,13 @@
   </a>
 </p>
 
+<h4 align="left">Frameworks:</h4>
+<p align="left">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  </a>
+</p>
+
 <h4 align="left">Version Control:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -51,12 +58,5 @@
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-</p>
-
-<h4 align="left">Frameworks:</h4>
-<p align="left">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>

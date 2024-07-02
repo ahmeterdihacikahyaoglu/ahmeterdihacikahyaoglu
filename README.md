@@ -5,12 +5,12 @@
 
 <table>
   <tr>
-    <td><h3 align="left">Programming Languages:</h3></td>
-    <td><h3 align="left">Frameworks:</h3></td>
-    <td><h3 align="left">Version Control:</h3></td>
-    <td><h3 align="left">Operating Systems:</h3></td>
-    <td><h3 align="left">Databases:</h3></td>
-    <td><h3 align="left">Tools:</h3></td>
+    <td><h3 align="left">Programming Languages</h3></td>
+    <td><h3 align="left">Frameworks</h3></td>
+    <td><h3 align="left">Version Control</h3></td>
+    <td><h3 align="left">Operating Systems</h3></td>
+    <td><h3 align="left">Databases</h3></td>
+    <td><h3 align="left">Tools</h3></td>
   </tr>
   <tr>
     <td>

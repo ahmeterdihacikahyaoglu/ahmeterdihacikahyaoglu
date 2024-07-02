@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Erdi</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td><h3 align="left">Programming Languages</h3></td>
